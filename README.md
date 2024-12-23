@@ -77,7 +77,3 @@ Random numbers: [5, 3, 7, 0, 1, 8, 6, 9, 4, 2, ...]
 - **Quantum Framework**: Qiskit
 - **Quantum Backend**: IBM Quantum (`ibm_brisbane`)
 - **Environment Management**: dotenv
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
